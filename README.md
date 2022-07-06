@@ -1,1 +1,1 @@
-"# Alan-News-App" 
+Alan-News-App
