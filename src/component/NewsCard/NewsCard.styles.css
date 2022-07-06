@@ -1,0 +1,8 @@
+/* .container {
+  display: flex;
+} */
+
+.activeCard {
+  border-bottom: 10px solid #08009c;
+  background-color: #3d389c;
+}
